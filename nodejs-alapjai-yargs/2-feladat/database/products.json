@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "ASUS GTX 1660Ti Graphic Card",
+            "price": 120000,
+            "count": 10
+        },
+        {
+            "id": 2,
+            "name": "MSI B450 Pro Motherboard",
+            "price": 32000,
+            "count": 21
+        },
+        {
+            "id": 3,
+            "name": "Gigabyte B550-F Motherboard",
+            "price": 20,
+            "count": 25
+        },
+        {
+            "id": 4,
+            "name": "AMD Ryzen 3 3100 Processor",
+            "price": 40000,
+            "count": 9
+        },
+        {
+            "id": 5,
+            "name": "AMD Ryzen 5 3600X Processor",
+            "price": 65000,
+            "count": 32
+        },
+        {
+            "id": 6,
+            "name": "AMD Ryzen 7 3700X Processor",
+            "price":  50,
+            "count": 21
+        },
+        {
+            "id": 7,
+            "name": "Intel Core i3 10100 Processor",
+            "price": 39000,
+            "count": 33
+        },
+        {
+            "id": 8,
+            "name": "Intel Core i5 10400F Processor",
+            "price": 55000,
+            "count": 56
+        },
+        {
+            "id": 9,
+            "name": "Intel Core i7 10700K Processor",
+            "price": 95000,
+            "count": 11
+        },
+        {
+            "id": 10,
+            "name": "G-Skill Trident 3600MHz 16GB Memory",
+            "price": 50000,
+            "count": 2
+        }
+    ]
+}

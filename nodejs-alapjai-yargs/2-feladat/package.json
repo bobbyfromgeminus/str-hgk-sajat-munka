@@ -1,0 +1,15 @@
+{
+  "name": "2-feladat",
+  "version": "1.0.0",
+  "description": "nodejs alapok yargs 2",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
