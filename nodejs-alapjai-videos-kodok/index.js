@@ -1,2 +1,2 @@
-const message = 'Hello Node'
-console.log(`${message} It works`)
+const message = "NodeJS";
+console.log(`${message} works.`);
