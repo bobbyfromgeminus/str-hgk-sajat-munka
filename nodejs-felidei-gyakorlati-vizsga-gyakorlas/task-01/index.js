@@ -73,6 +73,7 @@ const cars = [{
 }];
 
 console.log( get(cars, 4) );
+
 console.log( create(cars, {
     "model": "Sentra",
     "maker": "Nissan",
@@ -80,6 +81,7 @@ console.log( create(cars, {
     "color": "Crimson",
     "price": 32390
 }) );
+
 console.log( update(cars, {
     "id": 7,
     "model": "Cordia",
@@ -87,6 +89,7 @@ console.log( update(cars, {
     "color": "Red",
     "price": 5000
 }) );
+
 console.log( remove(cars, 11) );
 
 console.log(cars);
