@@ -1,11 +1,11 @@
 # MongoDB feladat #1
 
-MongoDB alapfeladatok terminálban (Mongo shell-ben)
-Elsőként olvasd végig az összes pontot!
+> MongoDB alapfeladatok terminálban (Mongo shell-ben)
+> Elsőként olvasd végig az összes pontot!
 
 ## Készíts egy videoStore nevű MongoDB adatbázist!
 ```
-use('videoStore');
+use videoStore;
 ```
 
 ## Hozz létre benne egy movies listát!

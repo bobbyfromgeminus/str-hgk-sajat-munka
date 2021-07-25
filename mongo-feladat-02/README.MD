@@ -1,17 +1,17 @@
 # MongoDB feladat #2
 
-A kész feladat feltöltésének helye:
-Repo: str-hgk-sajat-munka
-Almappa: mongo-feladat-02
-Például: http://github.com/cherryApp/str-hgk-sajat-munka/mongo-feladat-02
+> A kész feladat feltöltésének helye:
+> Repo: str-hgk-sajat-munka
+> Almappa: mongo-feladat-02
+> Például: http://github.com/cherryApp/str-hgk-sajat-munka/mongo-feladat-02
 
-A videoStore feladat folytatása (update, find, projection)
+**A videoStore feladat folytatása (update, find, projection)**
 
 > Normalization elve: Csak a közvetlen összetartozó elemeket tároljuk egy táblázatban (listában). Minél összetettebb egy adat (több tulajdonsággal rendelkezhet, pl.: rendezőnek lehet neve, díjai, filmjei, születési adatai), annál inkább külön listába kell kiszervezni a tárolását.
 
 ## Készíts el egy „directors” listát, amelyben filmrendezőket fogunk tárolni!
 ```
-use('videoStore');
+use videoStore;
 db.createCollection('directors');
 ```
 
