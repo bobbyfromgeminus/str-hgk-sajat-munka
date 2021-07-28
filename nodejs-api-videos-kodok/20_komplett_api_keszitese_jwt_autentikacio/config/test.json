@@ -1,0 +1,8 @@
+{
+    "database": {
+        "username": "nodeUser",
+        "password": "ULRkiay8Tpy8XAKm",
+        "host": "cluster0.kfa8h.mongodb.net/JestDB?retryWrites=true&w=majority"
+    }
+}
+
